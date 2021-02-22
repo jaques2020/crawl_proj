@@ -50,9 +50,3 @@ class biliUpInfo(object):
 
 
 
-
-if __name__ == '__main__':
-
-    a = biliUpInfo('阿巴')
-    a.up_search()
-    # a.hot_word()
